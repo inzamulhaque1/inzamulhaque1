@@ -62,3 +62,28 @@
 </p>
 
 ---
+
+
+### 💡 Learning Goals  
+- Mastering Next.js  
+- Diving into DevOps & Cloud Platforms  
+- Contributing more to open-source  
+
+
+### 🏅 Achievements & Certifications  
+- [Certification Name - Platform](https://certificate-link.com)  
+- Built and deployed a full-stack e-commerce website.
+
+- ### 🚀 Featured Projects  
+- [**Awesome Project Name**](https://github.com/inzamulhaque1/project-repo): A brief description of the project.
+- [**Another Cool Project**](https://github.com/inzamulhaque1/another-repo): What makes this project special?  
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=inzamulhaque1&theme=radical" height="160px" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inzamulhaque1&theme=radical" height="160px" alt="GitHub Trophies" />
+</div>
+
+
+
