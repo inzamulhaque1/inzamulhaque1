@@ -21,28 +21,15 @@
 
 ## 🛠️ **Technologies I Know**
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40" /></td>
-    <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40" /></td>
-    <td><img src="https://img.icons8.com/office/40/react.png" alt="React" width="40" /></td>
-    <td><img src="https://img.icons8.com/color/48/tailwind-css.png" alt="Tailwind CSS" width="40" /></td>
-    <td><img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40" /></td>
-    <td><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/40/external-mongodb-a-cross-platform-document-oriented-database-program-logo-tritone-tal-revivo.png" alt="MongoDB" width="40" /></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/javascript-logo.png" alt="JavaScript" width="40" /></td>
-    <td><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" /></td>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>React</td>
-    <td>Tailwind CSS</td>
-    <td>Node.js</td>
-    <td>MongoDB</td>
-    <td>JavaScript</td>
-    <td>GitHub</td>
-  </tr>
-</table>
+<div align="center">
+  
+| **Frontend** | **Backend** | **Database & Others** |
+|--------------|-------------|------------------------|
+| <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40" /><br>**HTML** | <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40" /><br>**Node.js** | <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/40/external-mongodb-a-cross-platform-document-oriented-database-program-logo-tritone-tal-revivo.png" alt="MongoDB" width="40" /><br>**MongoDB** |
+| <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40" /><br>**CSS** | <img src="https://img.icons8.com/ios-filled/50/javascript-logo.png" alt="JavaScript" width="40" /><br>**JavaScript** | <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" /><br>**Git** |
+| <img src="https://img.icons8.com/office/40/react.png" alt="React" width="40" /><br>**React** | <img src="https://img.icons8.com/color/48/tailwind-css.png" alt="Tailwind CSS" width="40" /><br>**Tailwind CSS** | |
+  
+</div>
 
 ---
 
@@ -50,7 +37,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" height="160px" alt="Stats" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=inzamulhaque1&theme=react-dark&hide_border=true" height="250px" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamulhaque1&layout=compact&theme=radical" height="160px" alt="Languages" />
 </div>
 
 ---
