@@ -1,11 +1,5 @@
 ![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/blob/main/images/github.png)
 
-# Hey there! 👋 I'm Inzamul Haque
-
-Welcome to my GitHub profile. Here's a bit about me and the technologies I work with.
-
----
-
 ## Reach Me Out ✉️
 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
