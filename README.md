@@ -22,12 +22,13 @@
 ## 🛠️ **Technologies I Know**
 
 <div align="center">
-
-| **Frontend** | **Backend** | **Database & Others** |
-|--------------|-------------|------------------------|
-| <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="50" title="HTML" /><br><b>HTML</b> | <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="50" title="Node.js" /><br><b>Node.js</b> | <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-tritone-tal-revivo.png" alt="MongoDB" width="50" title="MongoDB" /><br><b>MongoDB</b> |
-| <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="50" title="CSS" /><br><b>CSS</b> | <img src="https://img.icons8.com/ios-filled/50/javascript-logo.png" alt="JavaScript" width="50" title="JavaScript" /><br><b>JavaScript</b> | <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="50" title="GitHub" /><br><b>GitHub</b> |
-| <img src="https://img.icons8.com/office/40/react.png" alt="React" width="50" title="React" /><br><b>React</b> | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-tailwind-css-a-css-framework-for-rapid-ui-development-logo-color-tal-revivo.png" alt="Tailwind" width="50" title="Tailwind CSS" /><br><b>Tailwind CSS</b> | |
+  
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge) |
+| **Backend**  | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) |
+| **Others**   | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![API](https://img.shields.io/badge/API-0040FF?logo=fastapi&logoColor=white&style=for-the-badge) |
   
 </div>
 
