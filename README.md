@@ -33,6 +33,11 @@
 
 ---
 
+<p align="center">
+  <picture><img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" /></picture> <br/>
+  <picture><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamulhaque1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></picture>
+</p>
+
 ## 📊 **Current Stats**
 
 <div align="center">
