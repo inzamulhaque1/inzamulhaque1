@@ -1,6 +1,6 @@
 ![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/blob/main/images/github.png)
 
-<p align="center">📫 <b>Reach Me Out</b></p>
+## 📫 **Reach Me Out**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/inzamul1002/" target="_blank">
@@ -17,7 +17,6 @@
   </a>
 </div>
 
----
 
 ## 🛠️ **Technologies I Know**
 
@@ -48,3 +47,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&style=for-the-badge" alt="Profile Visitor Count" />
 </p>
+
+---
+
+
+
+### 👀 **Current Overview**
+- 🔭 **I’m working on:** Building full-stack web applications with modern tech stacks.  
+- 🌱 **I’m exploring:** Advanced backend optimizations and scalable REST APIs.  
+- 👯 **I’m looking to:** Collaborate on innovative and impactful projects.  
+- 🤔 **I’m trying to:** Share knowledge and help developers grow through open-source contributions.  
+- ⚡ **Fun fact:** Debugging feels like solving a crime thriller — except I’m both the suspect and the detective!  
+
+---
