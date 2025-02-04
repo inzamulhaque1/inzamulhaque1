@@ -49,8 +49,8 @@
 ## 📊 **Current Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160px" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160px" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" height="160px" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&theme=radical" height="160px" alt="Streak Stats" />
 </div>
 
 ---
