@@ -1,4 +1,4 @@
-![Custom Banner](https://your-banner-url-here)
+![Custom Banner](https://github.com/cbhasib/cbhasib/raw/main/images/githubcover.png) 
 
 # Hey there! 👋 I'm [Your Name]
 
