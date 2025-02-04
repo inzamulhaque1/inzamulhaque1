@@ -1,4 +1,4 @@
-![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/images/github.png) 
+![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/blob/main/images/github.png)
 
 # Hey there! 👋 I'm Inzamul Haque
 
