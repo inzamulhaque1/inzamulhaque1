@@ -1,6 +1,6 @@
 ![Custom Banner](https://github.com/cbhasib/cbhasib/raw/main/images/githubcover.png) 
 
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Inzamul Haque
 
 Welcome to my GitHub profile. Here's a bit about me and the technologies I work with.
 
