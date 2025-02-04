@@ -22,12 +22,12 @@
 ## 🛠️ **Technologies I Know**
 
 <div align="center">
-  
+
 | **Frontend** | **Backend** | **Database & Others** |
 |--------------|-------------|------------------------|
-| <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40" /><br>**HTML** | <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40" /><br>**Node.js** | <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/40/external-mongodb-a-cross-platform-document-oriented-database-program-logo-tritone-tal-revivo.png" alt="MongoDB" width="40" /><br>**MongoDB** |
-| <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40" /><br>**CSS** | <img src="https://img.icons8.com/ios-filled/50/javascript-logo.png" alt="JavaScript" width="40" /><br>**JavaScript** | <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" /><br>**Git** |
-| <img src="https://img.icons8.com/office/40/react.png" alt="React" width="40" /><br>**React** | <img src="https://img.icons8.com/color/48/tailwind-css.png" alt="Tailwind CSS" width="40" /><br>**Tailwind CSS** | |
+| <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="50" title="HTML" /><br><b>HTML</b> | <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="50" title="Node.js" /><br><b>Node.js</b> | <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-tritone-tal-revivo.png" alt="MongoDB" width="50" title="MongoDB" /><br><b>MongoDB</b> |
+| <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="50" title="CSS" /><br><b>CSS</b> | <img src="https://img.icons8.com/ios-filled/50/javascript-logo.png" alt="JavaScript" width="50" title="JavaScript" /><br><b>JavaScript</b> | <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="50" title="GitHub" /><br><b>GitHub</b> |
+| <img src="https://img.icons8.com/office/40/react.png" alt="React" width="50" title="React" /><br><b>React</b> | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-tailwind-css-a-css-framework-for-rapid-ui-development-logo-color-tal-revivo.png" alt="Tailwind" width="50" title="Tailwind CSS" /><br><b>Tailwind CSS</b> | |
   
 </div>
 
