@@ -42,13 +42,7 @@
 
 ---
 
-## 🔥 **Visitor Count**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&style=for-the-badge" alt="Profile Visitor Count" />
-</p>
-
----
 
 
 
@@ -58,5 +52,13 @@
 - 👯 **I’m looking to:** Collaborate on innovative and impactful projects.  
 - 🤔 **I’m trying to:** Share knowledge and help developers grow through open-source contributions.  
 - ⚡ **Fun fact:** Debugging feels like solving a crime thriller — except I’m both the suspect and the detective!  
+
+---
+
+## 🔥 **Visitor Count**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&style=for-the-badge" alt="Profile Visitor Count" />
+</p>
 
 ---
