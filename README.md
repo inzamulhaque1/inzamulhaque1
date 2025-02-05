@@ -41,9 +41,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=GitHub%20Streak&query=%24.streak&url=https://api.github-stats.com/stats/inzamulhaque1" height="160px" alt="GitHub Streak Stats" />
-</div>
 
 
 ### 👀 **Current Overview**
