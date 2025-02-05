@@ -36,7 +36,7 @@
 ## 📊 **Current Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" height="160px" alt="Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" height="160px" alt="Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamulhaque1&layout=compact&theme=radical" height="160px" alt="Languages" />
 </div>
 
