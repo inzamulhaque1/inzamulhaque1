@@ -1,5 +1,17 @@
 ![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/blob/main/images/github.png)
 
+## 👋 Hi, I'm Inzamul Haque!
+### Web Developer 
+
+## About Me
+I’m a passionate Full Stack Developer with expertise in building modern web applications. I love working with JavaScript and its frameworks, and I am always looking for innovative projects to collaborate on.
+
+## Current Activities
+- 🚀 Building full-stack applications with Node.js, React, and MongoDB.
+- 💡 Exploring Next.js and advanced backend optimizations.
+- 🔄 Collaborating on open-source projects and mentoring junior developers.
+
+
 ## 📫 **Reach Me Out**
 
 <div align="center">
