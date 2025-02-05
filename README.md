@@ -18,10 +18,6 @@
 </div>
 
 
-- 📧 Email: inzamulhaque1002@gmail.com  
-- 📱 Phone: +8801728005274  
-- 💼 [LinkedIn](https://www.linkedin.com/in/inzamul1002/)  
-
 
 
 ## 🛠️ **Technologies I Know**
