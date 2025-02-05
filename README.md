@@ -38,24 +38,12 @@
 ## 📊 **Current Stats**
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" height="160px" alt="Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" height="160px" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamulhaque1&layout=compact&theme=radical" height="160px" alt="Languages" />
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <!-- Number of contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" height="160px" alt="Stats" />
-
-  <!-- Languages used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamulhaque1&layout=compact&theme=radical" height="160px" alt="Languages" />
-
-  <!-- Streak data -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&theme=radical" alt="GitHub Streak" />
-</div>
 
 
 
