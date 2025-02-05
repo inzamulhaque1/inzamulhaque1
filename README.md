@@ -1,9 +1,7 @@
 ![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/blob/main/images/github.png)
 
-## 👋 Hi, I'm Inzamul Haque!
-### Web Developer 
+## 👋 Hi, I'm Inzamul Haque | Web Developer 
 
-## About Me
 I’m a passionate Full Stack Developer with expertise in building modern web applications. I love working with JavaScript and its frameworks, and I am always looking for innovative projects to collaborate on.
 
 ## Current Activities
