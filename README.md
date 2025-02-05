@@ -43,9 +43,9 @@
 ---
 
 ## :chart_with_upwards_trend: Current Stats
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inzamulhaque1)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&theme=dark&hide_border=true" height="160px" alt="GitHub Streak Stats" />
+</div>
 
 ### 👀 **Current Overview**
 - 🔭 **I’m working on:** Building full-stack web applications with modern tech stacks.  
