@@ -41,7 +41,7 @@
 </div>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=inzamulhaque1&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
 
 ### 👀 **Current Overview**
 - 🔭 **I’m working on:** Building full-stack web applications with modern tech stacks.  
