@@ -42,7 +42,9 @@
 
 ---
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&theme=radical" height="160px" alt="GitHub Streak Stats" />
+</div>
 
 
 
