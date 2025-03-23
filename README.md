@@ -72,7 +72,7 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
 
 ## 🔥 **Visitor Count**
 
-![Profile Views](https://visitcount.itsvg.in/api?id={your-username}&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=inzamulhaque1&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 
 ---
