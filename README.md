@@ -79,38 +79,6 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FFFF&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub!;Tracking+unique+visitors...+kinda" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FFFF&center=true&vCenter=true&width=400&lines=Thanks+for+visited+My+GitHub!;" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Visitor Count" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&label=Profile%20Views%20🚀&color=ff69b4&style=plastic" alt="Profile Visitor Count" />
-  <br> ✨ <strong>Visitors Exploding In!</strong> ✨
-</p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Visitor Count" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Visitor Count" />
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FF00FF&center=true&vCenter=true&width=400&lines=Hey,+you’re+here!;Counting+visitors+like+a+boss..." alt="Typing SVG" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&label=Profile%20Views%20🔥&color=ff69b4&style=plastic" alt="Profile Visitor Count" />
-  <br> ✨ <strong>Unique or not, you’re awesome!</strong> ✨
-</p>
-
 
