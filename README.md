@@ -72,8 +72,7 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
 
 ## 🔥 **Visitor Count**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&style=for-the-badge" alt="Profile Visitor Count" />
-</p>
+![Profile Views](https://visitcount.itsvg.in/api?id={your-username}&label=Profile%20Views&color=12&icon=5&pretty=true)
+
 
 ---
