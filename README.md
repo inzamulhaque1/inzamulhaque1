@@ -1,5 +1,7 @@
 ![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/blob/main/images/github.png)
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=ff69b4&center=true&vCenter=true&width=400&lines=👋+Hi,+I'm+Inzamul+Haque!;" alt="Typing SVG" />
+</p>
 ## 👋 Hi, I'm Inzamul Haque
 
 I’m a passionate Full Stack Developer with expertise in building modern web applications. I love working with JavaScript and its frameworks, and I am always looking for innovative projects to collaborate on.
