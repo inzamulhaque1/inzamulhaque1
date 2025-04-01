@@ -6,7 +6,7 @@
 I’m a passionate Full Stack Developer with expertise in building modern web applications. I love working with JavaScript and its frameworks, and I am always looking for innovative projects to collaborate on.
 
 ## Current Activities
-- 🚀 Building full-stack applications with Node.js, React, and MongoDB.
+- 🚀 Building full-stack applications with Node.js, React.js, and MongoDB.
 - 💡 Exploring Next.js and advanced backend optimizations.
 - 🔄 Collaborating on open-source projects and mentoring junior developers.
 
@@ -66,9 +66,7 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
 - 🔭 **I’m working on:** Building full-stack web applications with modern tech stacks.  
 - 🌱 **I’m exploring:** Advanced backend optimizations and scalable REST APIs.  
 - 👯 **I’m looking to:** Collaborate on innovative and impactful projects.  
-- 🤔 **I’m trying to:** Share knowledge and help developers grow through open-source contributions.  
-- ⚡ **Fun fact:** Debugging feels like solving a crime thriller — except I’m both the suspect and the detective!  
-
+- 🤔 **I’m trying to:** Share knowledge and help developers grow through open-source contributions. 
 ---
 
 <p align="center">
