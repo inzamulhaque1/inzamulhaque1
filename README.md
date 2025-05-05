@@ -75,7 +75,5 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=ff69b4&center=true&vCenter=true&width=400&lines=Thanks+for+visited+My+GitHub!;" alt="Typing SVG" />
-</p>
+
 
