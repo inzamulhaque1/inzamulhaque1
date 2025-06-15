@@ -67,7 +67,7 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
 - 🌱 **I’m exploring:** Advanced backend optimizations and scalable REST APIs.  
 - 👯 **I’m looking to:** Collaborate on innovative and impactful projects.  
 - 🤔 **I’m trying to:** Share knowledge and help developers grow through open-source contributions.
--  🔭 **I’m Exploring on:** I am exploring TypeScript, NestJs.  
+-  🔭 **I’m Exploring on:** I am exploring TypeScript, Nest Js.  
 - ......
 ---
 
