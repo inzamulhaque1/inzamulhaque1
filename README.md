@@ -58,6 +58,8 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=inzamulhaque1)](https://git.io/streak-stats)
+
 
 
 
