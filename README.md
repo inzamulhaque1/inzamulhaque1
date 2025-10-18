@@ -58,7 +58,28 @@ I’m a passionate Full Stack Developer with expertise in building modern web ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=inzamulhaque1)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=inzamulhaque1&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamulhaque1&layout=compact&theme=highcontrast" alt="Top Languages" />
+</p><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inzamulhaque1&theme=highcontrast" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inzamulhaque1&theme=highcontrast" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inzamulhaque1&theme=highcontrast" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inzamulhaque1&theme=high-contrast" alt="GitHub Activity Graph" />
+</p>
 
 
 
