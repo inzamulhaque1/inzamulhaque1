@@ -82,14 +82,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inzamulhaque1&theme=highcontrast" width="98%" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inzamulhaque1&theme=highcontrast" width="48%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inzamulhaque1&theme=highcontrast" width="48%" alt="Most Commit Language" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inzamulhaque1&theme=high-contrast&hide_border=true" width="98%" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
