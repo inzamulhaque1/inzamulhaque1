@@ -1,4 +1,4 @@
-![Custom Banner](https://github.com/inzamulhaque1/inzamulhaque1/blob/main/images/github.png)
+![Banner](./images/banner.png)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Inzamul+Haque!;Full+Stack+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
