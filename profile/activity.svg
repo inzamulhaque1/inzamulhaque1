@@ -1,30 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220" role="img" aria-label="Contributions per month">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111826"/></linearGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="439" height="219" rx="12" fill="url(#bg)" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="439" height="219" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="28" y="40" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Contributions per month</text>
-<rect x="34.1" y="154.1" width="19.8" height="27.9" rx="3" fill="url(#accent)"><title>Nov: 98</title></rect>
+<rect x="34.1" y="154.1" width="19.8" height="27.9" rx="3" fill="#58a6ff"><title>Nov: 98</title></rect>
 <text x="44.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Nov</text>
-<rect x="66.1" y="117.9" width="19.8" height="64.1" rx="3" fill="url(#accent)"><title>Dec: 225</title></rect>
+<rect x="66.1" y="117.9" width="19.8" height="64.1" rx="3" fill="#58a6ff"><title>Dec: 225</title></rect>
 <text x="76.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Dec</text>
-<rect x="98.1" y="114.7" width="19.8" height="67.3" rx="3" fill="url(#accent)"><title>Jan: 236</title></rect>
+<rect x="98.1" y="114.7" width="19.8" height="67.3" rx="3" fill="#58a6ff"><title>Jan: 236</title></rect>
 <text x="108.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Jan</text>
-<rect x="130.1" y="72.0" width="19.8" height="110.0" rx="3" fill="url(#accent)"><title>Feb: 386</title></rect>
+<rect x="130.1" y="72.0" width="19.8" height="110.0" rx="3" fill="#58a6ff"><title>Feb: 386</title></rect>
 <text x="140.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Feb</text>
-<rect x="162.1" y="121.3" width="19.8" height="60.7" rx="3" fill="url(#accent)"><title>Mar: 213</title></rect>
+<rect x="162.1" y="121.3" width="19.8" height="60.7" rx="3" fill="#58a6ff"><title>Mar: 213</title></rect>
 <text x="172.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Mar</text>
-<rect x="194.1" y="160.6" width="19.8" height="21.4" rx="3" fill="url(#accent)"><title>Apr: 75</title></rect>
+<rect x="194.1" y="160.6" width="19.8" height="21.4" rx="3" fill="#58a6ff"><title>Apr: 75</title></rect>
 <text x="204.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Apr</text>
-<rect x="226.1" y="142.7" width="19.8" height="39.3" rx="3" fill="url(#accent)"><title>May: 138</title></rect>
+<rect x="226.1" y="142.7" width="19.8" height="39.3" rx="3" fill="#58a6ff"><title>May: 138</title></rect>
 <text x="236.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">May</text>
-<rect x="258.1" y="160.6" width="19.8" height="21.4" rx="3" fill="url(#accent)"><title>Jun: 75</title></rect>
+<rect x="258.1" y="160.6" width="19.8" height="21.4" rx="3" fill="#58a6ff"><title>Jun: 75</title></rect>
 <text x="268.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Jun</text>
-<rect x="290.1" y="136.4" width="19.8" height="45.6" rx="3" fill="url(#accent)"><title>Jul: 160</title></rect>
+<rect x="290.1" y="136.4" width="19.8" height="45.6" rx="3" fill="#58a6ff"><title>Jul: 160</title></rect>
 <text x="300.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Jul</text>
-<rect x="322.1" y="101.1" width="19.8" height="80.9" rx="3" fill="url(#accent)"><title>Aug: 284</title></rect>
+<rect x="322.1" y="101.1" width="19.8" height="80.9" rx="3" fill="#58a6ff"><title>Aug: 284</title></rect>
 <text x="332.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Aug</text>
-<rect x="354.1" y="91.7" width="19.8" height="90.3" rx="3" fill="url(#accent)"><title>Sep: 317</title></rect>
+<rect x="354.1" y="91.7" width="19.8" height="90.3" rx="3" fill="#58a6ff"><title>Sep: 317</title></rect>
 <text x="364.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Sep</text>
-<rect x="386.1" y="143.5" width="19.8" height="38.5" rx="3" fill="url(#accent)"><title>Oct: 135</title></rect>
+<rect x="386.1" y="143.2" width="19.8" height="38.8" rx="3" fill="#58a6ff"><title>Oct: 136</title></rect>
 <text x="396.0" y="198" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Oct</text>
 </svg>

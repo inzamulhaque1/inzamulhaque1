@@ -10,13 +10,10 @@ if (!token) throw new Error("GH_TOKEN is required");
 
 const theme = {
   bg1: "#0d1117",
-  bg2: "#111826",
   border: "#30363d",
   text: "#e6edf3",
   muted: "#8b949e",
   blue: "#58a6ff",
-  purple: "#a371f7",
-  green: "#7ee787",
   font: "-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif",
   mono: "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace",
 };
@@ -122,9 +119,7 @@ const fmtRange = (a, b) => `${fmtDate(a)} – ${fmtDate(b)}, ${b.slice(0, 4)}`;
 
 function frame(w, h, title, body) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(title)}">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${theme.bg1}"/><stop offset="1" stop-color="${theme.bg2}"/></linearGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="${theme.blue}"/><stop offset="1" stop-color="${theme.purple}"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="${w - 1}" height="${h - 1}" rx="12" fill="url(#bg)" stroke="${theme.border}"/>
+<rect x="0.5" y="0.5" width="${w - 1}" height="${h - 1}" rx="12" fill="${theme.bg1}" stroke="${theme.border}"/>
 <text x="28" y="40" fill="${theme.text}" font-family="${theme.font}" font-size="17" font-weight="600">${esc(title)}</text>
 ${body}
 </svg>`;
@@ -144,7 +139,7 @@ function statsCard({ lastYear, allTime, streak, counts }) {
     const x = 28 + i * cw + cw / 2;
     const sep = i ? `<line x1="${28 + i * cw}" y1="72" x2="${28 + i * cw}" y2="150" stroke="${theme.border}"/>` : "";
     return `${sep}
-<text x="${x}" y="108" text-anchor="middle" fill="${c.accent ? "url(#accent)" : theme.text}" font-family="${theme.font}" font-size="30" font-weight="700">${esc(c.value)}</text>
+<text x="${x}" y="108" text-anchor="middle" fill="${c.accent ? theme.blue : theme.text}" font-family="${theme.font}" font-size="30" font-weight="700">${esc(c.value)}</text>
 <text x="${x}" y="132" text-anchor="middle" fill="${theme.text}" font-family="${theme.font}" font-size="13">${esc(c.label)}</text>
 <text x="${x}" y="150" text-anchor="middle" fill="${theme.muted}" font-family="${theme.mono}" font-size="10">${esc(c.sub)}</text>`;
   }).join("\n");
@@ -187,7 +182,7 @@ function activityCard(days) {
     const h = Math.max(2, (v / max) * chartH);
     const x = chartX + i * step + (step - bw) / 2;
     const label = new Date(`${key}-01T00:00:00Z`).toLocaleDateString("en-US", { month: "short", timeZone: "UTC" });
-    return `<rect x="${x.toFixed(1)}" y="${(baseY - h).toFixed(1)}" width="${bw.toFixed(1)}" height="${h.toFixed(1)}" rx="3" fill="url(#accent)"><title>${label}: ${v}</title></rect>
+    return `<rect x="${x.toFixed(1)}" y="${(baseY - h).toFixed(1)}" width="${bw.toFixed(1)}" height="${h.toFixed(1)}" rx="3" fill="${theme.blue}"><title>${label}: ${v}</title></rect>
 <text x="${(x + bw / 2).toFixed(1)}" y="${baseY + 16}" text-anchor="middle" fill="${theme.muted}" font-family="${theme.mono}" font-size="9">${label}</text>`;
   }).join("\n");
   return frame(w, 220, "Contributions per month", bars);
