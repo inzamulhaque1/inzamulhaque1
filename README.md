@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.png" />
-    <img src="./images/banner-light.png" width="100%" alt="Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/images/banner-dark.png" />
+    <img src="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/images/banner-light.png" width="100%" alt="Banner" />
   </picture>
 </p>
 
@@ -101,19 +101,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img src="./profile/stats-light.svg" width="100%" alt="GitHub activity" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/profile/stats-dark.svg" />
+    <img src="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/profile/stats-light.svg" width="100%" alt="GitHub activity" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
-    <img src="./profile/languages-light.svg" width="49%" alt="Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/profile/languages-dark.svg" />
+    <img src="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/profile/languages-light.svg" width="49%" alt="Languages" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-dark.svg" />
-    <img src="./profile/activity-light.svg" width="49%" alt="Contributions per month" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/profile/activity-dark.svg" />
+    <img src="https://raw.githubusercontent.com/inzamulhaque1/inzamulhaque1/main/profile/activity-light.svg" width="49%" alt="Contributions per month" />
   </picture>
 </p>
 
