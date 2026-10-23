@@ -18,8 +18,6 @@
 - **Integrating:** Ad platforms, payments, messaging, and AI APIs
 - **Learning:** System design, testing, and performance at scale
 
----
-
 <h2>🛠️ Technologies I Know</h2>
 
 <table align="center">
@@ -97,19 +95,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inzamulhaque1&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamulhaque1&layout=compact&theme=highcontrast&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="./profile/stats.svg" width="100%" alt="GitHub activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamulhaque1&theme=highcontrast&hide_border=true" width="98%" alt="GitHub Streak" />
+  <img src="./profile/languages.svg" width="49%" alt="Languages" />
+  <img src="./profile/activity.svg" width="49%" alt="Contributions per month" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inzamulhaque1&theme=highcontrast" width="98%" alt="Profile Details" />
-</p>
-
-
 
 ---
 
@@ -119,23 +111,16 @@
   <a href="https://www.linkedin.com/in/inzamulhaque1002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/au.inzamul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
-  </a>
   <a href="mailto:inzamulhaque1002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email" />
   </a>
-  <a href="https://wa.me/8801728005274" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
+  <a href="https://inzamul.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=00897B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
 </p>
 
----
+<p align="center"><sub>Thanks for visiting.</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together!;Happy+Coding!+💻" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=inzamulhaque1&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
