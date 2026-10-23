@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="Contributions per month">
+<rect x="0.5" y="0.5" width="439" height="235" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="40" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Contributions per month</text>
+<rect x="34.1" y="165.5" width="19.8" height="30.5" rx="3" fill="#58a6ff"><title>Nov: 98</title></rect>
+<text x="44.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Nov</text>
+<rect x="66.1" y="126.1" width="19.8" height="69.9" rx="3" fill="#58a6ff"><title>Dec: 225</title></rect>
+<text x="76.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Dec</text>
+<rect x="98.1" y="122.6" width="19.8" height="73.4" rx="3" fill="#58a6ff"><title>Jan: 236</title></rect>
+<text x="108.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Jan</text>
+<rect x="130.1" y="76.0" width="19.8" height="120.0" rx="3" fill="#58a6ff"><title>Feb: 386</title></rect>
+<text x="140.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Feb</text>
+<rect x="162.1" y="129.8" width="19.8" height="66.2" rx="3" fill="#58a6ff"><title>Mar: 213</title></rect>
+<text x="172.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Mar</text>
+<rect x="194.1" y="172.7" width="19.8" height="23.3" rx="3" fill="#58a6ff"><title>Apr: 75</title></rect>
+<text x="204.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Apr</text>
+<rect x="226.1" y="153.1" width="19.8" height="42.9" rx="3" fill="#58a6ff"><title>May: 138</title></rect>
+<text x="236.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">May</text>
+<rect x="258.1" y="172.7" width="19.8" height="23.3" rx="3" fill="#58a6ff"><title>Jun: 75</title></rect>
+<text x="268.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Jun</text>
+<rect x="290.1" y="146.3" width="19.8" height="49.7" rx="3" fill="#58a6ff"><title>Jul: 160</title></rect>
+<text x="300.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Jul</text>
+<rect x="322.1" y="107.7" width="19.8" height="88.3" rx="3" fill="#58a6ff"><title>Aug: 284</title></rect>
+<text x="332.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Aug</text>
+<rect x="354.1" y="97.5" width="19.8" height="98.5" rx="3" fill="#58a6ff"><title>Sep: 317</title></rect>
+<text x="364.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Sep</text>
+<rect x="386.1" y="153.4" width="19.8" height="42.6" rx="3" fill="#58a6ff"><title>Oct: 137</title></rect>
+<text x="396.0" y="212" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Oct</text>
+</svg>

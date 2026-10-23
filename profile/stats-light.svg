@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="GitHub activity">
+<rect x="0.5" y="0.5" width="899" height="179" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="28" y="40" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">GitHub activity</text>
+
+<text x="98.33333333333333" y="108" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700">2,344</text>
+<text x="98.33333333333333" y="132" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Contributions</text>
+<text x="98.33333333333333" y="150" text-anchor="middle" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">last 12 months</text>
+<line x1="168.66666666666666" y1="72" x2="168.66666666666666" y2="150" stroke="#d0d7de"/>
+<text x="239" y="108" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700">3,210</text>
+<text x="239" y="132" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">All-time</text>
+<text x="239" y="150" text-anchor="middle" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contributions</text>
+<line x1="309.3333333333333" y1="72" x2="309.3333333333333" y2="150" stroke="#d0d7de"/>
+<text x="379.66666666666663" y="108" text-anchor="middle" fill="#0969da" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700">5</text>
+<text x="379.66666666666663" y="132" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Current streak</text>
+<text x="379.66666666666663" y="150" text-anchor="middle" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">since Oct 19</text>
+<line x1="450" y1="72" x2="450" y2="150" stroke="#d0d7de"/>
+<text x="520.3333333333334" y="108" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700">123</text>
+<text x="520.3333333333334" y="132" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Longest streak</text>
+<text x="520.3333333333334" y="150" text-anchor="middle" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Feb 15 – Jun 17, 2025</text>
+<line x1="590.6666666666666" y1="72" x2="590.6666666666666" y2="150" stroke="#d0d7de"/>
+<text x="661" y="108" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700">304</text>
+<text x="661" y="132" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Pull requests</text>
+<text x="661" y="150" text-anchor="middle" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">268 merged</text>
+<line x1="731.3333333333333" y1="72" x2="731.3333333333333" y2="150" stroke="#d0d7de"/>
+<text x="801.6666666666666" y="108" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700">88</text>
+<text x="801.6666666666666" y="132" text-anchor="middle" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Repositories</text>
+<text x="801.6666666666666" y="150" text-anchor="middle" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">created</text>
+</svg>

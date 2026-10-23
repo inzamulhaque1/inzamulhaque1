@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="Languages">
+<rect x="0.5" y="0.5" width="439" height="235" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="28" y="40" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Languages</text>
+<clipPath id="bar"><rect x="28" y="62" width="384" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><rect x="28" y="62" width="222.14126493191714" height="10" fill="#3178c6"/><rect x="250.14126493191714" y="62" width="104.81992047659196" height="10" fill="#f1e05a"/><rect x="354.9611854085091" y="62" width="24.489056192664346" height="10" fill="#e34c26"/><rect x="379.45024160117345" y="62" width="21.6213791150101" height="10" fill="#3572A5"/><rect x="401.07162071618353" y="62" width="6.2501899662812805" height="10" fill="#663399"/><rect x="407.3218106824648" y="62" width="1.995611034168397" height="10" fill="#336790"/><rect x="409.3174217166332" y="62" width="1.8582811349651913" height="10" fill="#ff5a03"/><rect x="411.1757028515984" y="62" width="0.8242971484016117" height="10" fill="#6e7681"/></g>
+<circle cx="33" cy="100" r="5" fill="#3178c6"/>
+<text x="44" y="104" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">TypeScript</text>
+<text x="208" y="104" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">57.8%</text>
+<circle cx="233" cy="100" r="5" fill="#f1e05a"/>
+<text x="244" y="104" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">JavaScript</text>
+<text x="408" y="104" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">27.3%</text>
+<circle cx="33" cy="126" r="5" fill="#e34c26"/>
+<text x="44" y="130" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">HTML</text>
+<text x="208" y="130" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">6.4%</text>
+<circle cx="233" cy="126" r="5" fill="#3572A5"/>
+<text x="244" y="130" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Python</text>
+<text x="408" y="130" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">5.6%</text>
+<circle cx="33" cy="152" r="5" fill="#663399"/>
+<text x="44" y="156" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">CSS</text>
+<text x="208" y="156" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">1.6%</text>
+<circle cx="233" cy="152" r="5" fill="#336790"/>
+<text x="244" y="156" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">PLpgSQL</text>
+<text x="408" y="156" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">0.5%</text>
+<circle cx="33" cy="178" r="5" fill="#ff5a03"/>
+<text x="44" y="182" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Astro</text>
+<text x="208" y="182" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">0.5%</text>
+<circle cx="233" cy="178" r="5" fill="#6e7681"/>
+<text x="244" y="182" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Other</text>
+<text x="408" y="182" text-anchor="end" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">0.2%</text>
+</svg>

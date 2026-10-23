@@ -8,15 +8,16 @@ const OUT_DIR = new URL("../profile/", import.meta.url);
 const token = process.env.GH_TOKEN;
 if (!token) throw new Error("GH_TOKEN is required");
 
-const theme = {
-  bg1: "#0d1117",
-  border: "#30363d",
-  text: "#e6edf3",
-  muted: "#8b949e",
-  blue: "#58a6ff",
+const fonts = {
   font: "-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif",
   mono: "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace",
 };
+// GitHub's own dark and light palettes; the README picks one per viewer theme.
+const palettes = {
+  dark: { ...fonts, bg1: "#0d1117", border: "#30363d", text: "#e6edf3", muted: "#8b949e", blue: "#58a6ff" },
+  light: { ...fonts, bg1: "#ffffff", border: "#d0d7de", text: "#1f2328", muted: "#59636e", blue: "#0969da" },
+};
+let theme = palettes.dark;
 
 async function gql(query, variables = {}) {
   const res = await fetch("https://api.github.com/graphql", {
@@ -165,7 +166,7 @@ function languagesCard(langs) {
   const body = `<clipPath id="bar"><rect x="${barX}" y="62" width="${barW}" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">${segs}</g>
 ${items}`;
-  return frame(w, 220, "Languages", body);
+  return frame(w, 236, "Languages", body);
 }
 
 function activityCard(days) {
@@ -176,7 +177,7 @@ function activityCard(days) {
   }
   const entries = [...months.entries()].slice(-12);
   const max = Math.max(1, ...entries.map(([, v]) => v));
-  const w = 440, chartX = 28, chartW = w - 56, baseY = 182, chartH = 110;
+  const w = 440, chartX = 28, chartW = w - 56, baseY = 196, chartH = 120;
   const step = chartW / entries.length, bw = step * 0.62;
   const bars = entries.map(([key, v], i) => {
     const h = Math.max(2, (v / max) * chartH);
@@ -185,7 +186,7 @@ function activityCard(days) {
     return `<rect x="${x.toFixed(1)}" y="${(baseY - h).toFixed(1)}" width="${bw.toFixed(1)}" height="${h.toFixed(1)}" rx="3" fill="${theme.blue}"><title>${label}: ${v}</title></rect>
 <text x="${(x + bw / 2).toFixed(1)}" y="${baseY + 16}" text-anchor="middle" fill="${theme.muted}" font-family="${theme.mono}" font-size="9">${label}</text>`;
   }).join("\n");
-  return frame(w, 220, "Contributions per month", bars);
+  return frame(w, 236, "Contributions per month", bars);
 }
 
 const { user } = await gql(`query($login:String!){user(login:$login){createdAt}}`, { login: LOGIN });
@@ -196,7 +197,10 @@ const streak = streaks(days);
 const [langs, counts] = await Promise.all([fetchLanguages(), fetchCounts()]);
 
 mkdirSync(OUT_DIR, { recursive: true });
-writeFileSync(new URL("stats.svg", OUT_DIR), statsCard({ lastYear, allTime, streak, counts }));
-writeFileSync(new URL("languages.svg", OUT_DIR), languagesCard(langs));
-writeFileSync(new URL("activity.svg", OUT_DIR), activityCard(days));
+for (const [mode, palette] of Object.entries(palettes)) {
+  theme = palette;
+  writeFileSync(new URL(`stats-${mode}.svg`, OUT_DIR), statsCard({ lastYear, allTime, streak, counts }));
+  writeFileSync(new URL(`languages-${mode}.svg`, OUT_DIR), languagesCard(langs));
+  writeFileSync(new URL(`activity-${mode}.svg`, OUT_DIR), activityCard(days));
+}
 console.log(JSON.stringify({ lastYear, allTime, streak, counts, langs: langs.map((l) => `${l.name} ${l.pct.toFixed(1)}%`) }));

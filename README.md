@@ -1,4 +1,9 @@
-![Banner](./images/banner.png)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.png" />
+    <img src="./images/banner-light.png" width="100%" alt="Banner" />
+  </picture>
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=%3E+Hi%2C+I'm+Inzamul+Haque;%3E+Software+Developer;%3E+Building+web+apps%2C+automation+%26+integrations" alt="Typing SVG" />
@@ -95,12 +100,21 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="100%" alt="GitHub activity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img src="./profile/stats-light.svg" width="100%" alt="GitHub activity" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./profile/languages.svg" width="49%" alt="Languages" />
-  <img src="./profile/activity.svg" width="49%" alt="Contributions per month" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
+    <img src="./profile/languages-light.svg" width="49%" alt="Languages" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-dark.svg" />
+    <img src="./profile/activity-light.svg" width="49%" alt="Contributions per month" />
+  </picture>
 </p>
 
 ---
