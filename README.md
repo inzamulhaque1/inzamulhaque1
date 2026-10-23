@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  I'm a passionate Full Stack Developer with expertise in building modern web applications. I love working with JavaScript and its frameworks, and I am always looking for innovative projects to collaborate on.
+  I'm a Software Developer working on production web applications, from the UI to the database. Most of my day is TypeScript, Node.js, Next.js, and PostgreSQL, plus API integrations and automation that save people manual work.
 </p>
 
 ---
